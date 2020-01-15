@@ -87,6 +87,7 @@ DATABASES ={
         'NAME': 'btredb',
         'USER': 'postgres',
         
+        
     }
 }
 
